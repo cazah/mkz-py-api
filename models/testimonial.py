@@ -1,5 +1,5 @@
 class Testinonial:
-    def __init__(self, id,name,message,type):
+    def __init__(self, id,message,type,name):
         self.id = id
         self.name = name
         self.message = message
